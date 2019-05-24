@@ -16,6 +16,9 @@ GitBook.com是使用GitBook格式创建和托管图书的在线平台。它提�
 
 ## 二、如何使用Gitbook editor?
 
-1. 
+1. 点开之后不要登陆，因为我们一开始就是打算绕开Gitbook官网的。直接点击Do that later，开始使用。
+
+2. 点击左上方Gitbook Editor 菜单
+
 
 
