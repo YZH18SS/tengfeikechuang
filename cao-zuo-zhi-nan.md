@@ -24,11 +24,13 @@ GitBook.com是使用GitBook格式创建和托管图书的在线平台。它提�
 
 4. 你可以事先了解一下markdown语法，以便更熟练地编辑。
 
+5. 点击左上方Book菜单中的Repository Settings 设置你的上传仓库（注意是你自己的Github仓库），编辑完之后点击右上方save保存，然后点击publish就可以上传到你的Github上了。
+
 ### 注意！
 
 编辑时如果要换行注意使用ctrl + 回车，否则会进入编码模式。也不要使用空格来进行首行缩进，不然也会导致同样的问题。
 
-4. 点击左上方Book菜单中的Repository Settings 设置你的上传仓库（注意是你自己的Github仓库），编辑完之后点击右上方save保存，然后点击publish就可以上传到你的Github上了。
+
 
 ## 三、题外话
 
